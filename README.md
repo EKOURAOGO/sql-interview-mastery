@@ -1,4 +1,4 @@
-# SQL Interview Mastery — MySQL
+# SQL Interview Mastery - MySQL
 
 Base de données de test et 64 requêtes SQL avancées couvrant les questions les plus posées en entretien technique Data Analyst / Data Engineer (PwC, Deloitte, EY, KPMG, Accenture). Schéma, données et requêtes sont **exécutables tels quels** sur MySQL 8.0+ ou MariaDB 10.5+, et validés par une suite de tests automatisés.
 
@@ -49,11 +49,11 @@ sql-interview-mastery/
 
 ## Catégories de requêtes couvertes
 
-**Fondamentaux** — second salaire le plus élevé, doublons, jointures manager/employé, agrégations avec `HAVING`, `LEFT JOIN ... WHERE NULL` pour les anti-jointures, Nième salaire le plus élevé.
+**Fondamentaux** - second salaire le plus élevé, doublons, jointures manager/employé, agrégations avec `HAVING`, `LEFT JOIN ... WHERE NULL` pour les anti-jointures, Nième salaire le plus élevé.
 
-**Fenêtrage et CTE** — `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `PERCENT_RANK`, `NTILE`, `CUME_DIST`, totaux courants, moyennes mobiles, requêtes récursives (chaîne hiérarchique complète, ascendants, descendants), détection de plages qui se chevauchent, *gaps & islands* sur les séquences de dates.
+**Fenêtrage et CTE** - `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `PERCENT_RANK`, `NTILE`, `CUME_DIST`, totaux courants, moyennes mobiles, requêtes récursives (chaîne hiérarchique complète, ascendants, descendants), détection de plages qui se chevauchent, *gaps & islands* sur les séquences de dates.
 
-**Reporting métier** — évolution mensuelle des ventes en pourcentage, ancienneté moyenne par département, valeur moyenne de commande, comptage cumulé de commandes par client, notation moyenne des produits.
+**Reporting métier** - évolution mensuelle des ventes en pourcentage, ancienneté moyenne par département, valeur moyenne de commande, comptage cumulé de commandes par client, notation moyenne des produits.
 
 ---
 
